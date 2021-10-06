@@ -1,0 +1,5 @@
+vendor/
+.bundle/
+*.yml
+.idea/*
+.DS_Store
